@@ -2,39 +2,41 @@
 
 ## Computational and generative art inspired by @ijeamaka_a
 
-### Flags and Colors of East Africa
+### 1) Flags and Colors of East Africa
 
-This project is inspired by work from ....
+This project is inspired by work from ...
 
-### Colors of Kenya
+#### a) Colors of Kenya
 https://flagcolor.com/kenya-flag-colors/
 
-![]
+![alt_link]()
 
-### Colors of Uganda
+#### b) Colors of Uganda
 https://flagcolor.com/uganda-flag-colors/
 
+![alt_link]()
 
-
-### Colors of Tanzania
+#### c) Colors of Tanzania
 https://flagcolor.com/tanzania-flag-colors/
 
+![alt_link]()
 
-
-### Colors of Rwanda
+#### d) Colors of Rwanda
 https://flagcolor.com/rwanda-flag-colors/
 
+![alt_link]()
 
-
-### Colors of Burundi
+#### e) Colors of Burundi
 https://flagcolor.com/burundi-flag-colors/
 
+![alt_link]()
 
-
-### Colors of South Sudan
+#### f) Colors of South Sudan
 https://www.schemecolor.com/south-sudan-flag-colors.php
 
+![alt_link]()
 
-
-### Colors of the Democratic Republic of Congo (DRC)
+#### g) Colors of the Democratic Republic of Congo (DRC)
 DRC website...
+
+![alt_link]()
