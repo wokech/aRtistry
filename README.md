@@ -1,2 +1,3 @@
 # aRtistry
-Computational and generative art inspired by ijeamaka
+Computational and generative art inspired by @ijeamaka_a
+
