@@ -39,4 +39,4 @@ https://www.schemecolor.com/south-sudan-flag-colors.php
 #### g) Colors of the Democratic Republic of Congo (DRC)
 DRC website...
 
-![alt_link]()
+![alt_link](https://github.com/wokech/aRtistry/blob/main/images/dem_rep_congo/dem_rep_congo_colors.png)
