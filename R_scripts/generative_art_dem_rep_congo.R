@@ -46,7 +46,7 @@ ggplot() +
   geom_segment(data=lines4, color = "#FFD100", size = 3.2, lineend = "round",
                aes(x=x, xend=xend,
                    y=y, yend=yend)) +
-  geom_segment(data=lines3, color = "EF3340", size = 3.4, lineend = "round",
+  geom_segment(data=lines3, color = "#EF3340", size = 3.4, lineend = "round",
                aes(x=x, xend=xend,
                    y=y, yend=yend)) + 
   geom_segment(data=lines2, color = "#FFD100", size = 3.6, lineend = "round",
@@ -67,4 +67,4 @@ ggplot() +
 
 
 # Save the plot
-ggsave("images/tanzania/tanzania_colors.png", width = 10, height = 10)
+ggsave("images/dem_rep_congo/dem_rep_congo_colors.png", width = 10, height = 10)
