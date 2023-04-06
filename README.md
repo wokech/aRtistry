@@ -2,7 +2,7 @@
 
 ## Computational and generative art
 
-### 1) Flags and Colors of East Africa
+### 1) Flags and Colors of the East African Community Members
 
 Project Inspiration: \@ijeamaka_a ([Link](https://ijeamaka.art/portfolio/radial_patterns/))
 
