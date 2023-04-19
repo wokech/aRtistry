@@ -2,7 +2,7 @@
 
 This repository contains code and resources for creating computational and generative art using the R programming language.
 
-## Computational and generative art
+## (A) Computational and generative art
 
 ### 1) Flags and Colors of the East African Community Members
 
