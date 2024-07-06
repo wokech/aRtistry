@@ -28,13 +28,13 @@ lines3 = tibble(
   yend=c(rep(c(10), 19), 10))
 
 ggplot() + 
-  geom_segment(data=lines3, color = "#C8102E", size = 3.6, lineend = "round",
+  geom_segment(data=lines3, color = "#418FDE", size = 3.6, lineend = "round",
                aes(x=x, xend=xend,
                    y=y, yend=yend)) + 
-  geom_segment(data=lines2, color = "white", size = 4.0, lineend = "round",
+  geom_segment(data=lines2, color = "#FFFFFF", size = 4.0, lineend = "round",
                aes(x=x, xend=xend,
                    y=y, yend=yend)) + 
-  geom_segment(data=lines1, color = "#43B02A", size = 3.6, lineend = "round",
+  geom_segment(data=lines1, color = "#418FDE", size = 3.6, lineend = "round",
                aes(x=x, xend=xend,
                    y=y, yend=yend)) + 
   ylim(-5, 15) +
@@ -49,4 +49,4 @@ ggplot() +
 
 
 # Save the plot
-ggsave("images/burundi/burundi_colors.png", width = 10, height = 10)
+# ggsave("images/somalia/somalia_colors.png", width = 10, height = 10)

@@ -13,38 +13,28 @@ lines1 = tibble(
   x = seq(0, 38, by = 2),
   xend=x,
   y=rep(0, 20),
-  yend=c(rep(c(2), 19), 2))
+  yend=c(rep(c(3), 19), 3))
 
 lines2 = tibble(
   x = seq(0, 38, by = 2),
   xend=x,
   y=rep(0, 20),
-  yend=c(rep(c(4), 19), 4))
+  yend=c(rep(c(6), 19), 6))
 
 lines3 = tibble(
   x = seq(0, 38, by = 2),
   xend=x,
   y=rep(0, 20),
-  yend=c(rep(c(6), 19), 6))
-
-lines4 = tibble(
-  x = seq(0, 38, by = 2),
-  xend=x,
-  y=rep(0, 20),
-  yend=c(rep(c(8), 19), 8))
-
+  yend=c(rep(c(10), 19), 10))
 
 ggplot() + 
-  geom_segment(data=lines4, color = "#0077C8", size = 3.4, lineend = "round",
-               aes(x=x, xend=xend,
-                   y=y, yend=yend)) +
-  geom_segment(data=lines3, color = "#0077C8", size = 3.6, lineend = "round",
+  geom_segment(data=lines3, color = "#CE1126", size = 3.6, lineend = "round",
                aes(x=x, xend=xend,
                    y=y, yend=yend)) + 
-  geom_segment(data=lines2, color = "#FFD100", size = 3.8, lineend = "round",
+  geom_segment(data=lines2, color = "#FFFFFF", size = 4.0, lineend = "round",
                aes(x=x, xend=xend,
                    y=y, yend=yend)) + 
-  geom_segment(data=lines1, color = "#007749", size = 4.0, lineend = "round",
+  geom_segment(data=lines1, color = "#1EB53A", size = 3.6, lineend = "round",
                aes(x=x, xend=xend,
                    y=y, yend=yend)) + 
   ylim(-5, 15) +
@@ -59,4 +49,4 @@ ggplot() +
 
 
 # Save the plot
-ggsave("images/rwanda/rwanda_colors.png", width = 10, height = 10)
+# ggsave("images/burundi/burundi_colors.png", width = 10, height = 10)
