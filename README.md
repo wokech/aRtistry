@@ -2,7 +2,13 @@
 
 This repository contains code and resources for creating computational and generative art using the R programming language.
 
-## (A) Computational and generative art
+## (A) Flametree of the Kenyan Flag
+
+Inspired by D. Navarro and the flametree package
+
+![Flametree of the Kenyan Flag](images/flametree/flametree_2.png)
+
+## (B) Computational and generative art
 
 ### 1) Flags and Colors of the East African Community Members
 
