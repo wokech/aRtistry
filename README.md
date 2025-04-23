@@ -2,7 +2,7 @@
 
 This repository contains code and resources for creating computational and generative art using the R programming language.
 
-***NOTE: Direct links to the code used to produce the image(s) below will be provided ASAP.***
+***NOTE: Direct links to the code used to produce the image(s) below will be provided ASAP (if not provided already).***
 
 ## (A) Flametree of the Kenyan Flag
 
